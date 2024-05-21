@@ -1,2 +1,2 @@
 # Ball-Shooting
-### <a href="https://himanshurw.github.io/Ball-Shooting/">Play it NOW</a>
+### <a href="https://girish07p.github.io/Ball-Shooting-Game/">Play it NOW</a>
